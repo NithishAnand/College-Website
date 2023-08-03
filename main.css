@@ -1,0 +1,56 @@
+.container{
+    width: 80%;
+    margin: auto;
+}
+.row{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.col{
+    border: 1px;
+    height: 40px;
+    padding: 12px;
+}
+.header-top{
+    background-color: #169FCC;
+    height: 110px;
+    padding:12px;
+}
+h1 {
+    background-color: #169FCC;
+    color: white;
+    
+}
+h2 {
+    background-color: #169FCC;
+    color: white;
+}
+p {
+    background-color: #169FCC;
+    color: white;
+}
+.nav-section{
+    background-color: #169FCC;
+    height: 80px;
+}
+.academic{
+    background-color: #169FCC;
+    height: 10em;
+    
+}
+.academic-title{
+    font-weight: 900;
+    color: azure;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 15px;
+}
+
+.content-academic{
+    color:whitesmoke;
+    text-align:justify;
+    font-size: 20px;
+    grid-column: 50%;
+}
